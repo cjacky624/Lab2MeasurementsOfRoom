@@ -1,0 +1,6 @@
+C:\Users\jc\documents\visual studio 2017\Projects\1-14-19Lab2Final\1-14-19Lab2Final\bin\Debug\1-14-19Lab2Final.exe.config
+C:\Users\jc\documents\visual studio 2017\Projects\1-14-19Lab2Final\1-14-19Lab2Final\bin\Debug\1-14-19Lab2Final.exe
+C:\Users\jc\documents\visual studio 2017\Projects\1-14-19Lab2Final\1-14-19Lab2Final\bin\Debug\1-14-19Lab2Final.pdb
+C:\Users\jc\documents\visual studio 2017\Projects\1-14-19Lab2Final\1-14-19Lab2Final\obj\Debug\1-14-19Lab2Final.csprojResolveAssemblyReference.cache
+C:\Users\jc\documents\visual studio 2017\Projects\1-14-19Lab2Final\1-14-19Lab2Final\obj\Debug\1-14-19Lab2Final.exe
+C:\Users\jc\documents\visual studio 2017\Projects\1-14-19Lab2Final\1-14-19Lab2Final\obj\Debug\1-14-19Lab2Final.pdb
